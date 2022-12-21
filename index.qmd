@@ -1,0 +1,25 @@
+---
+title: EL PAPEL DE LA MUJER EN LA ESCUELA Y EL TRABAJO     
+image: supernenas.jpg      #- poned una foto vuestra
+about:
+  template: trestles    #- {jolla, solana, ...}
+  image-width: 16em     #- https://cybmeta.com/em-y-rem
+  image-shape: rectangle    #- {rectangle, round, rounded}
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/carlam01         #- Github
+---
+        
+Hola, somos Carla, Noelia y Helena.
+      
+Esta web sirve para presentar el trabajo en equipo para la asignatura "Programación y manejo de datos en la era Del Big Data", optativa de GECO en la Facultad de Economía de la Universitat de València.
+
+La web de la asignatura está [aquí](https://perezp44.github.io/intro-ds-22-23-web/){target="_blank"} y los trabajos de mis compañeros de curso puedes verlos [aquí](https://perezp44.github.io/intro-ds-22-23-web/07-trabajos_2022-23.html){target="_blank"}.
+
+
+
+Nuesro trabajo lleva por título : "EL PAPEL DE LA MUJER EN LA ESCUELA Y EL TRABAJO". El objetivo es analizar la presencia de ésta en ambos sectores y, así, poder ver la discriminación y desigualdad con la que cuentan tanto durante su vida estudiantil como laboral. 
+
+
+El trabajo puede verse [aquí](my_trabajo_BigData.html).

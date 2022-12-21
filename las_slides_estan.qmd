@@ -1,0 +1,5 @@
+---
+title: "Slides para la presentación"
+---
+
+Las transparencias para presentar el **trabajo en grupo** están [aquí](my_slides_BigData.qmd){target="_blank"}. 
